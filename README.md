@@ -5,6 +5,7 @@
    - MERN stack 🌐
 - 🤝 Open and eager to collaborating with like-minded individuals and teams.
 - 📫 Reach out via Email if you're interested in collaborating or discussing tech ideas!
+- 
      (Email: sachdevpratham3@gmail.com)
 - 😄 Pronouns: He/Him
 - 🚀 Passionate AI and tech enthusiast!
